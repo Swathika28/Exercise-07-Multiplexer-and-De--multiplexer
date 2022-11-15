@@ -92,8 +92,8 @@ endmodule
 ### PROGRAM:
 
 Program for 1x4 Demultiplexer  and verify its truth table in quartus using Verilog programming.  
-Developed by:BHUVANESHWAR V   
-RegisterNumber: 212221240009  
+Developed by:SWATHIKA G  
+RegisterNumber: 212221230113
 ```
 module demux(I,S0,S1,Y0,Y1,Y2,Y3);
 input I,S0,S1;
